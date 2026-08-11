@@ -1,5 +1,5 @@
 # Docker-Project01
-Hands-on Docker project: Deploying a static HTML web page using Nginx with port mapping and host volumes.
+Hands-on Docker project: Deploying a simple HTML web page using Nginx with port mapping and host volumes.
 
 Here is a clean, professional `README.md` file tailored for your Docker project repository. You can copy and paste this directly into a `README.md` file in your project folder.
 
